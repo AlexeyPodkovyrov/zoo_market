@@ -127,9 +127,9 @@
 
 ## UML-диаграмма
 
-Диаграмма описывает основные сценарии взаимодействия **Покупателя** и **МИС Ветклиники** с системой.
+Диаграмма описывает основные сценарии взаимодействия **Покупателя** и **Заводчика** с системой, а также интеграцию с внешними системами: **Банком**, **Курьерской службой**, **Фондом**, **Специалистом** и **МИС Ветклиники**.
 
-![UML](https://www.plantuml.com/plantuml/png/TPDTwjf05CNVPnKNtotre-fJ4Rg6BY34Q0D-G1AVIi4FIX-K5agXVIWjxY1gKwV6w1RkxAZdoZG9wLzGSsxcTyxClOdzC7A2Q3uPgx4tZ2YQKU2FtaGqy0FFZVpPL3bkD0kenZ_vocUpvXl7PiK9fsPR8oUaePiZt_aRxuW_SmBYp2bhpbX3wJivyKCbgSvqDFRehPg7dkk4ditMPibdWl7A1sonaElTzlhLyp8gAq0l-5sP1I5TpXDp2iEHuwSJ6gM4BxYVYSbiY0_4Dv3QV9JQqiqI_GCDfqB_5qsI8slyXpFhR5NssMFr02Qv3oAH_N0zyHuHCUvbO1BhRLS6afgr-P0xItl7rl2YPDWXxYA4sO2wykaVywpIkbbAAs0mjvmfD_mLgpVMuBOuBZxLfsdMrjTvvC9q2OTVIWjyP4ty2_8JyM_MSZhaPMPZtjkSRlNn0e_1neyCFVLE3Lsgrr_Aor78XaAPw_nsiv2jGhPpYK7YAzeEh5mrKNMaajUti7GAsIraJ_MzwG3_fhy0)
+![UML-диаграмма](uml_диаграмма.png)
 
 ---
 
