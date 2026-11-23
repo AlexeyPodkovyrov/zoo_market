@@ -137,7 +137,7 @@
 
 ## OpenAPI-спецификация
 
-Спецификация API администрирования магазина: [openapi.yaml](openapi/openapi.yaml) или [openapi.json](openapi/openapi.json). Открыть в [Swagger Editor](https://forge.etsi.org/swagger/editor/): загрузите файл через **File -> Import file**.
+Спецификация API администрирования магазина: [openapi.yaml](openapi.yaml) или [openapi.json](openapi.json). Открыть в [Swagger Editor](https://forge.etsi.org/swagger/editor/): загрузите файл через **File -> Import file**.
 
 
 Администратор управляет сущностями, показанными на UML-диаграмме: пользователями (покупатели и заводчики), товарами, избранным, заказами, животными, пожертвованиями, услугами для животных и ветклиниками. **Всего 26 путей**.
